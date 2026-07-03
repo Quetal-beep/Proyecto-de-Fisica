@@ -35,7 +35,7 @@ P₁ + ½ρV₁² + ρgh₁ = P₂ + ½ρV₂² + ρgh₂
 # ======================================================
 # 🏠 CASO CASA
 # ======================================================
-st.header(" Flujo de agua en una vivienda (Serway)")
+st.header(" 1. Presión de agua en el hogar (Ejemplo 14.7) ")
 
 st.image("casa.jpg", caption="Ejemplo Serway")
 
